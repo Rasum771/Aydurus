@@ -7,7 +7,7 @@ I help businesses automate repetitive tasks using **n8n**, **Make**, and other n
 ## 🛠️ Tools I Love
 
 ![n8n](https://img.shields.io/badge/n8n-Automation-blue)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-4-informational)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue)
 ![Make.com](https://img.shields.io/badge/Make-Integromat-purple)
 ![Airtable](https://img.shields.io/badge/Airtable-Database-yellow)
 
